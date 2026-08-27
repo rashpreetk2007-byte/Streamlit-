@@ -11,7 +11,7 @@ st.set_page_config(
 # GRADIO API URL
 # ==========================================================
 
-GRADIO_URL ="https://872d88b9aacff067fa.gradio.live"
+GRADIO_URL ="https://6e60efa4cddb9a7269.gradio.live/"
 
 
 # ==========================================================
